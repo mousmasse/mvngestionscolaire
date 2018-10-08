@@ -7,15 +7,16 @@
   </parent>
   <artifactId>service</artifactId>
   <dependencies>
-  	<dependency>
-  		<groupId>sn.objis.mvngestionscolaire</groupId>
-  		<artifactId>metier</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>sn.objis.mvngestionscolaire</groupId>
-  		<artifactId>dao</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+
+  <dependency>
+  	<groupId>sn.objis.mvngestionscolaire</groupId>
+  	<artifactId>metier</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </dependency>
+  <dependency>
+  	<groupId>sn.objis.mvngestionscolaire</groupId>
+  	<artifactId>dao</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </dependency>
   </dependencies>
 </project>
